@@ -1,0 +1,39 @@
+@font-face {
+    font-family: 'Love';
+    src: url(fonts/Filxgirl.TTF) format(truetype);
+    font-weight: normal;
+    font-size: normal;
+}
+
+body {
+    background-image: linear-gradient(to right, #FF78C7, #FF78DD, #FF45E0);
+    text-align: center;
+}
+
+div {
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgba(177, 132, 139, 0.719);
+    width: 600px;
+    padding: 10px;
+    margin: auto;
+}
+
+.fotinho {
+    height: 500px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.671);
+}
+
+h1 {
+    font-family: 'Love', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 3em;
+    text-align: center;
+}
+
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    text-align: center;
+}
